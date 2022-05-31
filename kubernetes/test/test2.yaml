@@ -7,3 +7,5 @@ spec:
   containers:
   - image: nginx
     name: mynginx2-container
+  - image: nginx
+    name: mynginx3-container
