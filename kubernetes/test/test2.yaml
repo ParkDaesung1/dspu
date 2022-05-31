@@ -1,11 +1,11 @@
-apiVersion: v1
-kind: Pod
-metadata:
-  name: mynginx2
-  namespace: tp
-spec:
-  containers:
-  - image: nginx
-    name: mynginx2-container
-  - image: nginx
-    name: mynginx3-container
+# apiVersion: v1
+# kind: Pod
+# metadata:
+#   name: mynginx2
+#   namespace: tp
+# spec:
+#   containers:
+#   - image: nginx
+#     name: mynginx2-container
+#   - image: nginx
+#     name: mynginx3-container
